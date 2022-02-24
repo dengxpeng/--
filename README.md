@@ -150,5 +150,8 @@ admin   123456
 
 如果您发现有代码有什么不足之处请跟我留言，如果我留言不及时请加我个人微信Dove981011512  QQ:981011512
 
+数据库地址：
+链接：https://pan.baidu.com/s/1XzovWk_Ar-xhR9hZAz5Hyg
+提取码：ticv
 
 
